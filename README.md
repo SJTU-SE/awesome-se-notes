@@ -8,6 +8,8 @@
 
 * [CSE](#cse)
 
+* [Machine-Learning](#Machine-Learning)
+
 ___
 
 ### 项目介绍
@@ -22,3 +24,9 @@ ___
 > SE124 - 计算机系统工程
 
 * [Kami-code-2019](https://github.com/Kami-code/SE124-CSE-2021-Notes)
+
+### Machine-Learning
+
+> SE125 - 机器学习
+
+* [Fuck-SJTU-ML-Exam](https://github.com/shenhliu/Fuck-SJTU-ML-Exam)
