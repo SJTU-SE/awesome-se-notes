@@ -8,7 +8,7 @@
 * [CSE](#cse)
 * [Machine-Learning](#Machine-Learning)
 * [Compliers](#Compliers)
-* [Architecture of Enterprise Applications](#Architecture of Enterprise Applications)
+* [Architecture of Enterprise Applications](#Architecture-of-Enterprise-Applications)
 
 ___
 
