@@ -30,3 +30,15 @@ ___
 > SE125 - 机器学习
 
 * [Fuck-SJTU-ML-Exam](https://github.com/shenhliu/Fuck-SJTU-ML-Exam)
+
+### Compliers
+
+> SE3355 - 编译原理
+
+* [Kami-code-2019](https://github.com/Kami-code/SE3355-Compliers-2021-Notes)
+
+### Architecture of Enterprise Applications
+
+> SE3353 - 应用体系架构
+
+* [Kami-code-2019](https://github.com/Kami-code/SE3353-2021-Notes)
