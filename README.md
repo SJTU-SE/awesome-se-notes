@@ -6,11 +6,10 @@
 
 * [项目介绍](#项目介绍)
 * [CSE](#cse)
-* [Machine-Learning](#Machine-Learning)
-* [Compliers](#Compliers)
-* [Architecture of Enterprise Applications](#Architecture-of-Enterprise-Applications)
-
-___
+* [Machine-Learning](#machine-learning)
+* [Compliers](#compliers)
+* [Architecture of Enterprise Applications](#architecture-of-enterprise-applications)
+* [Algorithm Design](#algorithm-design)
 
 ### 项目介绍
 
@@ -24,6 +23,7 @@ ___
 > SE124 - 计算机系统工程
 
 * [Kami-code-2019](https://github.com/Kami-code/SE124-CSE-2021-Notes)
+* [echo-xiao9-2019](https://github.com/echo-xiao9/MyNote/blob/master/README.md)
 
 ### Machine-Learning
 
@@ -31,6 +31,7 @@ ___
 
 * [Fuck-SJTU-ML-Exam](https://github.com/shenhliu/Fuck-SJTU-ML-Exam)
 * [WilliamX1-2019](https://github.com/WilliamX1/machine-learning)
+* [echo-xiao9-2019](https://github.com/echo-xiao9/MyNote/blob/master/README.md)
 
 ### Compliers
 
@@ -45,3 +46,12 @@ ___
 
 * [Kami-code-2019](https://github.com/Kami-code/SE3353-2021-Notes)
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
+* [echo-xiao9-2019](https://github.com/echo-xiao9/MyNote/blob/master/README.md)
+
+### Algorithm Design
+
+> SE3352 - 算法设计
+
+* [echo-xiao9-2019](https://pitch-circle-003.notion.site/Algorithm-ba2f26f6d5ae440eb0ba46689f05d2cf)
+
+
