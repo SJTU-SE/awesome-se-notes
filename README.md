@@ -5,6 +5,7 @@
 ## 目录
 
 * [项目介绍](#项目介绍)
+* [Introduction to Computer Systems](#ics)
 * [CSE](#cse)
 * [Machine-Learning](#machine-learning)
 * [Compliers](#compliers)
@@ -17,6 +18,12 @@
 
 1. 可以直接 Pull Requests
 2. 如果你是软件学院的同学，请联系 [@rudeigerc (rudeigerc@gmail.com)](https://github.com/rudeigerc)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
+
+### ICS
+
+> SE118, SE119, SE120 - 计算机系统基础：汇编，组成，系统软件
+
+* [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/WindowsXp-NOTEs/tree/master/ICS)
 
 ### CSE
 
