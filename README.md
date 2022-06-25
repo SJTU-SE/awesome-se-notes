@@ -11,6 +11,7 @@
 * [Compliers](#compliers)
 * [Architecture of Enterprise Applications](#architecture-of-enterprise-applications)
 * [Algorithm Design](#algorithm-design)
+* [Operating Systems](#operating-systems)
 
 ### 项目介绍
 
@@ -61,4 +62,8 @@
 
 * [echo-xiao9-2019](https://pitch-circle-003.notion.site/Algorithm-ba2f26f6d5ae440eb0ba46689f05d2cf)
 
+### Operating Systems
 
+> SE3357 - 操作系统
+
+* [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/OS-Notes)
