@@ -67,3 +67,4 @@
 > SE3357 - 操作系统
 
 * [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/OS-Notes)
+* [Yuan-Allen-2019](https://github.com/Yuan-Allen/OS-mind-map)
