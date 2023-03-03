@@ -52,6 +52,7 @@
 * [Kami-code-2019](https://github.com/Kami-code/SE3353-2021-Notes)
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
 * [echo-xiao9-2019](https://github.com/echo-xiao9/MyNote/blob/master/README.md)
+* [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
 
 ### Algorithm Design
 
