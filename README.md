@@ -12,6 +12,7 @@
 * [Architecture of Enterprise Applications](#architecture-of-enterprise-applications)
 * [Algorithm Design](#algorithm-design)
 * [Operating Systems](#operating-systems)
+* [Software Testing](#software-testing)
 
 ### 项目介绍
 
@@ -66,3 +67,9 @@
 
 * [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/OS-Notes)
 * [Yuan-Allen-2019](https://github.com/Yuan-Allen/OS-mind-map)
+
+### Software Testing
+
+> SE3336 - 软件测试
+
+* [SorryMaker-2020](https://github.com/SorryMaker2022/SE-Notes/tree/main/Software-Testing)
