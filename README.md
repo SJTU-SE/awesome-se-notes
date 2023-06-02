@@ -73,3 +73,4 @@
 > SE3336 - 软件测试
 
 * [SorryMaker-2020](https://github.com/SorryMaker2022/SE-Notes/tree/main/Software-Testing)
+* [Musicminion-2020](https://github.com/ayaka-notes/softwaretest-notes)
