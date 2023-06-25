@@ -67,6 +67,7 @@
 
 * [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/OS-Notes)
 * [Yuan-Allen-2019](https://github.com/Yuan-Allen/OS-mind-map)
+* [Albus-Tan-2020](https://github.com/Albus-Tan/SJTU-SE3357-OS-notes)
 
 ### Software Testing
 
@@ -74,3 +75,4 @@
 
 * [SorryMaker-2020](https://github.com/SorryMaker2022/SE-Notes/tree/main/Software-Testing)
 * [Musicminion-2020](https://github.com/ayaka-notes/softwaretest-notes)
+* [Albus-Tan-2020](https://github.com/Albus-Tan/SJTU-Notes#Software%20Testing)
