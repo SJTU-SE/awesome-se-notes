@@ -4,16 +4,19 @@
 
 ## 目录
 
-* [项目介绍](#项目介绍)
-* [Introduction to Computer Systems](#ics)
-* [CSE](#cse)
-* [Machine-Learning](#machine-learning)
-* [Compliers](#compliers)
-* [Architecture of Enterprise Applications](#architecture-of-enterprise-applications)
-* [Algorithm Design](#algorithm-design)
-* [Operating Systems](#operating-systems)
-* [Software Testing](#software-testing)
-
+- [资源清单](#资源清单)
+  - [目录](#目录)
+    - [项目介绍](#项目介绍)
+    - [ICS](#ics)
+    - [CSE](#cse)
+    - [Machine-Learning](#machine-learning)
+    - [Compliers](#compliers)
+    - [Architecture of Enterprise Applications](#architecture-of-enterprise-applications)
+    - [Algorithm Design](#algorithm-design)
+    - [Operating Systems](#operating-systems)
+    - [Software Testing](#software-testing)
+    - [Principles and Practice of Software Engineering](#principles-and-practice-of-software-engineering)
+  
 ### 项目介绍
 
 这是一个志在收集上海交通大学软件学院同学课程笔记的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Notes到这个项目中，如果你有贡献的想法可以直接提交 Pull Requests。
@@ -76,3 +79,9 @@
 * [SorryMaker-2020](https://github.com/SorryMaker2022/SE-Notes/tree/main/Software-Testing)
 * [Musicminion-2020](https://github.com/ayaka-notes/softwaretest-notes)
 * [Albus-Tan-2020](https://github.com/Albus-Tan/SJTU-Notes#Software%20Testing)
+
+### Principles and Practice of Software Engineering
+
+> SE3330 - 软件工程原理与实践
+
+* [PeterTheSparrow-2023](https://github.com/PeterTheSparrow/SE3330-Principles-and-practice-of-software-engineering-2023-Notes)
