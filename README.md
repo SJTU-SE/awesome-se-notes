@@ -57,6 +57,7 @@
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
 * [echo-xiao9-2019](https://github.com/echo-xiao9/MyNote/blob/master/README.md)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
+* [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
 
 ### Algorithm Design
 
@@ -84,4 +85,4 @@
 
 > SE3330 - 软件工程原理与实践
 
-* [PeterTheSparrow-2023](https://github.com/PeterTheSparrow/SE3330-Principles-and-practice-of-software-engineering-2023-Notes)
+* [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3330-Principles-and-practice-of-software-engineering-2023-Notes)
