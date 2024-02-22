@@ -25,7 +25,7 @@
 
 > SE118, SE119, SE120 - 计算机系统基础：汇编，组成，系统软件
 
-* [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/WindowsXp-NOTEs/tree/master/ICS)
+* [WindowsXp-Beta-2019](https://github.com/WindowsXp-Beta/WindowsXp-NOTEs/tree/master/Courses/ICS)
 
 ### CSE
 
